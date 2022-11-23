@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.py[co]
+__pycache__/
+dist/
+build/
+cbak.spec
+manifest.json
+
